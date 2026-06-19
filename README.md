@@ -14,6 +14,7 @@ $$ \color{#cf0000}{\text{am i actually]] ignoring someone. if it seems like im i
 
 </p>
 
+<a href="https://hits.sh/github.com/zsiion/"><img alt="Hits" src="https://hits.sh/github.com/zsiion.svg?style=for-the-badge&label=deaths%20caused%20by%20my%20hands%20%5D%5D&extraCount=20&color=700002&labelColor=260000&logo=pipecat"/></a>
 
 
 <div align="center">
