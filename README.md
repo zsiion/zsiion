@@ -10,7 +10,7 @@ $$ \color{#cf0000}{\text{"sweety sweety ]] marry ]] me, hunderttausend ]] kids f
 
 $$ \color{#cf0000}{\text{i]]am often awkward, and]] respond lately [[because, i usually am[[ occuped with something offtab. i am not [ ignoring you. very rarely}} $$
 
-$$ \color{#cf0000}{\text{am i actually]] ignoring someone. if it seems like im ignoring you, ] im not. please dont say that. id ]] never ignore someone [[ on purpose.}} $$
+$$ \color{#cf0000}{\text{am i actually]] ignoring someone. if it seems like im ignoring you, ] im not. please dont say that. id ]] never ignore someone [[ on purpose..}} $$
 
 </p>
 
